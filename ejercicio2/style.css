@@ -1,0 +1,37 @@
+.title{
+    color: rgb(221, 126, 221);
+}
+
+textarea{
+    margin-top: 10px;
+    border: 1px solid rgb(235, 117, 235);
+    border-radius: 5px;
+    padding:10px 35% 10px 0px;
+}
+
+.form{
+    padding: 0px 20px 0px 20px;
+    border: 1px solid rgb(228, 106, 228);
+    max-width: 30%;
+}
+
+.input{
+    border: 1px solid rgb(236, 125, 236);
+    border-radius: 5px;
+    margin:5px 0px 30px 0px;
+    padding:10px 50% 10px 0px;
+}
+
+.boton{
+    text-align: center;
+    border: 1px solid rgb(240, 114, 240);
+    border-radius: 5px;
+    margin:10px 20% 10px 20%;
+    padding:10px 25% 10px 25%;
+    background-color: rgb(255, 134, 255);
+    color: rgb(211, 211, 211);
+}
+
+span{
+    color: red;
+}
